@@ -1,0 +1,8 @@
+# Grosse Dateien NICHT zu GitHub hochladen
+isos/
+vms/
+
+# System-/Editor-Kram
+Thumbs.db
+desktop.ini
+.DS_Store
